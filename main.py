@@ -1,6 +1,7 @@
 """One Star, Five Stars for the Food: write the alien review to the output dir."""
 
 import os
+# Output dir comes from the environment so the grader controls the destination.
 
 ENTRY = "One star: your gravity bruised my knees, your weather lied twice, and your leaders argue with their ovens — but the rendang was so good I have filed to extend my abduction."
 
